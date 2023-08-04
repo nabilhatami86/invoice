@@ -1,0 +1,37 @@
+1. akses mudah dan terpusat terhadap data di seluruh cabang, PT Digitalization  mengadopsi penyimpanan cloud computing. mereka  mengintegrasikan dan mengelola data dari semua cabang dengan efisiensi yang tinggi. 
+
+	1. Integrasi Data Terpusat: Dengan menggunakan penyimpanan cloud, PT Digitalization dapat mengumpulkan semua data dari 6 cabang mereka menjadi satu 	tempat yang terpusat. Ini memungkinkan tim yang bertanggung jawab atas pengelolaan data untuk dengan mudah mengakses, mengatur, dan berbagi 	informasi di seluruh perusahaan.
+
+	2. Fleksibilitas Kerja Jarak Jauh: Dalam era yang semakin terhubung dan tren kerja jarak jauh yang berkembang pesat, PT Digitalization menyadari 	pentingnya memungkinkan para pekerja menjaga data dari rumah. Dengan penyimpanan cloud, para pekerja yang bertanggung jawab atas pengelolaan data 	dapat mengakses data secara aman melalui koneksi internet. Ini memberikan fleksibilitas dalam pengaturan waktu kerja dan memungkinkan para pekerja 	untuk 	bekerja produktif dari mana saja, selama terhubung dengan jaringan yang aman.
+
+	3. Keamanan Data: PT Digitalization menerapkan kebijakan keamanan yang ketat untuk melindungi data yang disimpan di cloud. Mereka menggunakan metode 	enkripsi data yang kuat dan mekanisme otentikasi yang canggih untuk memastikan keamanan data dan hanya memungkinkan akses oleh pihak yang berwenang.
+
+	Dengan memanfaatkan penyimpanan cloud computing, PT Digitalization dapat mengintegrasikan data dari cabang-cabang mereka, memfasilitasi kerja jarak 	jauh, dan menjaga keamanan data dengan tinggi. memungkinkan perusahaan untuk beroperasi dengan efisiensi tinggi dan memberikan layanan yang 	konsisten kepada pelanggan, bahkan dalam situasi yang memerlukan kerja jarak jauh.
+
+2. pengembangan terhadap pengelola PT
+
+	1. Sistem Manajemen Sentral: PT Digitalization telah membangun sistem manajemen sentral yang memungkinkan mereka untuk mengontrol dan mengawasi 	operasional ke-6 cabang mereka. Dengan adanya sistem ini, mereka dapat mengelola dan mengoordinasikan kegiatan di setiap cabang dengan lebih 	efisien, serta 	mengambil keputusan strategis yang berkaitan dengan pengembangan dan pertumbuhan perusahaan.
+
+	2. Tim Pengelola Cabang: Setiap cabang PT Digitalization memiliki tim pengelola yang ditugaskan untuk mengawasi operasional dan kegiatan sehari-hari 	di masing-masing cabang. Tim ini terdiri dari manajer cabang dan staf yang berkualitas dan berpengalaman dalam bidang teknologi digital. Mereka 	bertanggung jawab untuk memastikan bahwa cabang-cabang berjalan dengan lancar dan sesuai dengan visi perusahaan.
+
+	3. Komunikasi dan Kolaborasi: PT Digitalization menerapkan sistem komunikasi dan kolaborasi yang efektif antara pusat dan cabang-cabang. Mereka 	menggunakan berbagai alat komunikasi seperti email, pesan instan, dan konferensi video untuk menjaga saluran komunikasi yang terbuka dan memastikan 	informasi penting dapat dengan cepat disampaikan kepada semua pihak terkait di seluruh cabang.
+
+	4. Pemantauan Kinerja Cabang: PT Digitalization menggunakan alat dan sistem pemantauan kinerja untuk mengukur dan mengevaluasi kinerja setiap 	cabang. Dengan menggunakan metrik yang relevan dan indikator kinerja kunci (Key Performance Indicators/KPIs), mereka dapat melacak kemajuan, 	mengidentifikasi area yang memerlukan perbaikan, dan mengambil tindakan yang tepat untuk meningkatkan efisiensi dan produktivitas di setiap cabang.
+
+	5. Pelatihan dan Pengembangan Karyawan: PT Digitalization memberikan perhatian yang serius terhadap pengembangan karyawan di setiap cabang. Mereka 	menyediakan program pelatihan dan pengembangan yang komprehensif untuk meningkatkan keterampilan dan pengetahuan karyawan dalam bidang teknologi 	digital. Dengan demikian, mereka memastikan bahwa karyawan memiliki kompetensi yang diperlukan untuk menjalankan tugas-tugas mereka dengan baik dan 	mendukung pertumbuhan perusahaan.
+
+3. Pengembangan Terhadap karyawan dibidang tekonologi
+
+	1. Tim Pengembangan Perangkat Lunak: Sebagian besar karyawan di PT Digitalization, sekitar 400 orang, tergabung dalam tim pengembangan perangkat 	lunak. 	Mereka memiliki keahlian dalam pemrograman, analisis sistem, dan pengembangan aplikasi yang inovatif. Tim ini bertanggung jawab untuk 	merancang, mengembangkan, dan menguji solusi perangkat lunak yang digunakan oleh perusahaan dan pelanggan.
+
+	2. Tim Infrastruktur Teknologi: Sekitar 200 karyawan di PT Digitalization adalah bagian dari tim infrastruktur teknologi. Mereka memiliki 	pengetahuan mendalam tentang jaringan, server, dan sistem infrastruktur yang diperlukan untuk menjalankan operasional perusahaan. Tim ini 	bertanggung jawab atas pengelolaan dan pemeliharaan infrastruktur teknologi yang mendukung operasional PT Digitalization.
+
+	3. Tim Keamanan Informasi: Sekitar 150 karyawan merupakan bagian dari tim keamanan informasi PT Digitalization. Mereka memiliki keahlian dalam 	memastikan keamanan data, melindungi sistem dari ancaman keamanan, dan mengelola kebijakan keamanan perusahaan. Tim ini terus memantau dan 	melindungi data sensitif serta menjaga integritas keamanan dalam operasional perusahaan.
+
+	4. Tim Layanan Pelanggan: PT Digitalization juga memiliki tim layanan pelanggan yang terdiri dari sekitar 150 karyawan. Mereka memiliki pengetahuan 	mendalam tentang solusi perusahaan dan siap membantu pelanggan dalam mengatasi masalah dan memberikan dukungan teknis. Tim ini berperan penting 	dalam memastikan kepuasan pelanggan dan menjaga hubungan yang baik dengan mereka.
+
+	5. Tim Manajemen dan Administrasi: Sejumlah sekitar 100 karyawan mengisi posisi manajerial dan administratif di PT Digitalization. Mereka memiliki 	tanggung jawab dalam mengelola operasional perusahaan, mengkoordinasikan tim, dan menjalankan fungsi administratif yang diperlukan untuk menjaga 	kelancaran bisnis 	perusahaan.
+
+
+
+
